@@ -1,0 +1,14 @@
+1. Git init -> Bo'sh git repositoryni e'lon qilish va uni ishga tushirish
+2. git config -- list -> git loyiga uchun sozlanmalar ro'yxatini ko'rish
+3. git config user.name -> git loyihaga user.name qo'shish
+4. git config user.email -> git loyihaga elektron pochtani biriktirish
+5. git add filaname -> Ko'rsatilgan nomdagi faylni git repositoryga qo'shish
+6. git add. -> Joriy xatalogdagi barcha o'zgarishlarni git repositoryda saglash!
+7. git status -> Joriy git loyihaning joriy holatini tekshirish
+8. git commit -m "message" -> Kiritilgan o'zgarishlarni "message" xabari orqali saqlash.
+9. git log -> git repositorydagi barcha o'zgarishlar tarixini ko'rish, bunda kim qaysi email, gachon nima ish gilganligi barchasi ko'rinib turadi!
+10. git branch -> Mazkur git repositorydagi barcha branch(filial)larni ro'yxatini ko'rish
+11.git branch "new _branch" -> "new_branch" nomli yangi branch hosil qilish
+12. git switch "branch _name" -> joriy branchdan yangi nomi keltirilgan branchga o'tish!
+13. git merge "branch_ name" -> Boshqa branchda qilingan o'zgarishni joriy branch uchun qo'shib qo'yish!
+14. git clone "url" -> havolasi keltirilgan repositoryni nushalash
